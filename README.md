@@ -29,3 +29,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+Thank you, ChatGPT.
+
+Anyway just go to the most recent release and run it. trying to upload some songs to get u started. thx
